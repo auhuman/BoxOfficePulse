@@ -8,7 +8,7 @@
 > **Agentic Cinema: The Blockbuster Hackathon Submission**  
 > **Partner Track:** ClickHouse  
 > **OSI License:** MIT License ([`LICENSE`](./LICENSE))  
-> **Live Deployment:** [https://boxoffice-pulse.vercel.app](https://boxoffice-pulse.vercel.app)  
+> **Live Deployment:** [https://auhuman.github.io/BoxOfficePulse/](https://auhuman.github.io/BoxOfficePulse/)  
 
 ---
 
