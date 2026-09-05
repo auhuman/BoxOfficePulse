@@ -125,8 +125,8 @@ Located in [`src/lib/clickhouse/schema.sql`](./src/lib/clickhouse/schema.sql):
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/AgenticCinema.git
-cd AgenticCinema
+git clone https://github.com/auhuman/BoxOfficePulse.git
+cd BoxOfficePulse
 
 # 2. Install dependencies
 npm install
